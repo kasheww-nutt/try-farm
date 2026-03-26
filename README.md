@@ -102,4 +102,5 @@ We use advanced System Instructions to enforce a specific persona:
     ```
 
 ---
-*Built for the Gemini 3 Hackathon*
+
+
